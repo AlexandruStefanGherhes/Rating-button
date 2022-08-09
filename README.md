@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Rating-button.git)
-- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Order-Summary/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Rating-button/)
 
 ## My process
 
