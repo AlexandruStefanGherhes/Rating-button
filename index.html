@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rating button</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div>
+        <img src="icon-star.svg" alt="" class="icon-star" />
+      </div>
+      <div class="title">
+        <h1>How did we do?</h1>
+      </div>
+      <div class="paragraph">
+        <p>
+          Please let us know how we did with your supoort request.All feedback
+          is appreciated to help us improve our offering!
+        </p>
+      </div>
+      <div class="button">
+        <button class="rating-btn">1</button>
+        <button class="rating-btn">2</button>
+        <button class="rating-btn active">3</button>
+        <button class="rating-btn">4</button>
+        <button class="rating-btn">5</button>
+      </div>
+
+      <div class="submit">
+        <button class="btn-submit">Submit</button>
+      </div>
+    </div>
+
+    <div class="modal-container hidden ">
+      <button class="btn-closeModal">X</button>
+      <div class="image">
+        <img src="illustration-thank-you.svg" alt="" />
+      </div>
+
+      <div class="selected">
+        <p>You selected <span class="score"></span> out of 5</p>
+      </div>
+
+      <div class="thanks">
+        <h2>Thank you!</h2>
+      </div>
+
+      <div class="appreciate">
+        <p>
+          We apreciate you taking the time to leave us a rating. If you ever
+          need more support, don't hesitate to get in touch!
+        </p>
+      </div>
+    </div>
+    <div class="overlay hidden"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
