@@ -33,7 +33,7 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/Baroush/FrontEndMentor.git)
+- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Rating-button.git)
 - Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Order-Summary/)
 
 ## My process
@@ -43,6 +43,7 @@ Mobile version
 - Semantic HTML5 markup
 - Flexbox
 - Mobile-first workflow
+- Event listners in Javascript for opening and closing modal, and choosing rating
 
 ### Continued development
 
